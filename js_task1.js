@@ -1,0 +1,3 @@
+// pochemu
+/* ne sohranilos
+epta */
